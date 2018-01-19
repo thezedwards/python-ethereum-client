@@ -1,0 +1,4 @@
+bidict
+pycryptodome
+requests==2.18.4
+six
